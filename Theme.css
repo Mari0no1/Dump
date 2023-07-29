@@ -1300,15 +1300,7 @@ button[aria-label="Show Game Activity"]::before {
 }
 
 
-/* invite thingy restyle */
-.container-1Gt1iQ .contentWrapper-3oy4Xo .scroller-Q9d9Di {
-	background-color: #151515;
-}
 
-.container-1Gt1iQ .contentWrapper-3oy4Xo .scroller-Q9d9Di .flex-2S1XBF {
-	background-color: #222;
-	border-radius: 25px;
-}
 
 
 /* phone number field fix thing */
@@ -1470,8 +1462,6 @@ button[aria-label="Show Game Activity"]::before {
 .card-2TuZPZ:hover .splash-1VADA3 {
 	opacity: 0.5;
 }
-
-
 
 
 
@@ -1828,10 +1818,7 @@ button[aria-label="Show Game Activity"]::before {
 }
 
 
-/* fix invites from browser */
-.focusLock-2tveLW .container-1Gt1iQ .inviteSplash-2Q0PLE {
-	display: none;
-}
+
 
 .focusLock-2tveLW .container-1Gt1iQ .flex-2S1XBF .pill-qMtBTq .pillMessage-3pHz6R {
 	margin-top: 85px;
