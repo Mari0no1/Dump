@@ -1300,6 +1300,10 @@ button[aria-label="Show Game Activity"]::before {
 }
 
 
+/* invite thingy restyle */
+.container-1Gt1iQ .contentWrapper-3oy4Xo .scroller-Q9d9Di {
+	background-color: #151515;
+}
 
 .container-1Gt1iQ .contentWrapper-3oy4Xo .scroller-Q9d9Di .flex-2S1XBF {
 	background-color: #222;
@@ -1471,47 +1475,6 @@ button[aria-label="Show Game Activity"]::before {
 
 
 
-/* bro i fr dont know what i be coding */
-
-.wrapper-1HIH0j {
-	border-radius: 8px;
-	padding: 16px;
-	overflow: hidden;
-	min-height: 172px;
-	max-width: initial;
-	transform: translateY(0);
-	-webkit-transform: translateY(0);
-	background: #171717 !important;
-}
-
-.wrapper-1HIH0j .inviteSplash-2nkLRX {
-	filter: brightness(0.7) opacity(.7) blur(.7px);
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	z-index: -1;
-}
-
-h5.colorStandard-21JIj7.size14-3fJ-ot.h5-2RwDNl.title-3hptVQ.header-3anOjb {
-	margin-top: 6px;
-}
-
-button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-3y-Z79.buttonSize-3QlBTl.grow-2sR_-F {
-	position: fixed;
-	bottom: 10%;
-	width: 90%;
-	font-size: large;
-}
-
-.container-2sjPya .content-1r-J1r .colorGreen-3y-Z79 {
-	background-color: rgba(68, 68, 68, 0.74) !important;
-	transition: 0.5s ease;
-	border-radius: 10px;
-}
-
-.container-2sjPya .content-1r-J1r .colorGreen-3y-Z79:hover {
-	background-color: rgb(68, 68, 68) !important;
-}
 
 
 /* toolbar restyle */
